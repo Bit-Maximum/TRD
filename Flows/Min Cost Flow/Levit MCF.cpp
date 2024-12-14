@@ -4,7 +4,8 @@
 #include <deque>
 
 size_t n, m, k;
-const long long INF = LONG_LONG_MAX;
+//const long long INF = LONG_LONG_MAX;
+const long long INF = 1e16;
 
 struct Edge {
     int from, to, reversed = -1;
