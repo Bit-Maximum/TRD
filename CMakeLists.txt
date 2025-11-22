@@ -52,4 +52,10 @@ add_executable(TRD main.cpp
         Sorting/MOsAlgoSorting.cpp
         Math/moduloMult.cpp
         Miscellaneous/fastIntegerIO.cpp
+        Hashs/robinCarp.cpp
+        Hashs/numberOfDistinctSubstrings.cpp
+        Strings/maineLorenz.cpp
+        NumberTheory/ternarySearch.cpp
+        NumberTheory/binomialCoefficients.cpp
+        NumberTheory/relativelyPrimeNumbers.cpp
 )
